@@ -6,6 +6,7 @@ HOST-SUFFIX, binance.com, DIRECT
 HOST-SUFFIX, binance.me, DIRECT
 HOST-SUFFIX, binance.info, DIRECT
 HOST-SUFFIX, bntrace.com, DIRECT
+HOST-SUFFIX, bnbstatic.com, DIRECT
 HOST-SUFFIX, binance.us, PROXY
 HOST-SUFFIX, bitcointalk.org, PROXY
 HOST-SUFFIX, bitfinex.com, PROXY
