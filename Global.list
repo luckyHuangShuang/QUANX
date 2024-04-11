@@ -263,6 +263,7 @@ HOST-SUFFIX, joinclubhouse.com, PROXY
 HOST-SUFFIX, aex.com, PROXY
 HOST-SUFFIX, bibox.com, PROXY
 HOST-SUFFIX, binance.cc, DIRECT
+HOST-SUFFIX, binance.info, DIRECT
 HOST-SUFFIX, binance.com, DIRECT
 HOST-SUFFIX, binance.me, DIRECT
 HOST-SUFFIX, binance.us, PROXY
